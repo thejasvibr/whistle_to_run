@@ -41,7 +41,7 @@ python run_cmd_on_whistle.py -command "cd <path to folder where your firefox.exe
 ```
 eg. on my system  this would
 ```
-python run_cmd_on_whistle.py -command "cd C:\Program Files (86)\Mozilla Firefox & firefox.exe-new-window https://www.youtube.com/watch?v=qdtLCfEcPL?autoplay=1"
+python run_cmd_on_whistle.py -command "cd C:\Program Files (86)\Mozilla Firefox & firefox.exe-new-window https://www.youtube.com/embed/qdtLCfEcPL4?autoplay=1"
 ```
 
 
